@@ -1,3 +1,4 @@
+![AppImage](chatImageView.png)
 
 # Chat Chat App
 
