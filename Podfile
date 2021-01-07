@@ -1,9 +1,9 @@
 platform :ios, '13.1'
 
-target 'Flash Chat iOS13' do
+target 'Chat Chat iOS13' do
   use_frameworks!
 
-  # Pods for Flash Chat iOS13
+  # Pods for Chat Chat iOS13
   pod 'Firebase/Auth'
   pod 'Firebase/Firestore'
 
